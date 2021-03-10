@@ -59,3 +59,4 @@ namespace Base.Domain.DTOs
             }
         }
     }
+}

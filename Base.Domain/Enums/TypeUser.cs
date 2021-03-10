@@ -4,7 +4,7 @@
     {
         Administrator = 1,
         NormalUser = 2,
-        Client = 3
+        Client = 3,
         Support = 4
     }
 }
